@@ -2,7 +2,7 @@ extends Node
 
 # Original based on PronounOrganizer.cs by Celechii found here: https://github.com/celechii/Unity-Tools/blob/master/PronounOrganizer.cs
 
-# Call get_pronoun function with the pronoun type and the subjective pronoun you want to return a string with the requested pronoun
+# Call get_pronoun function with the pronoun type and the subject pronoun you want to return a string with the requested pronoun
 
 enum PRONOUN_TYPE {Sub, Obj, Pos_Adj, Pos_Pro, Ref}
 enum PRONOUN {Co, En, Ey, He, It, She, They, Xe, Xie, Yo, Ve, Ze, New}
